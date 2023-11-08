@@ -5,16 +5,11 @@ UMN Data Bootcamp Project 1
 Exploratory data analysis is used by many individuals within the healthcare field, including clinical data analysts, pharmaceutical testers, healthcare-economics researchers, senior policy analysts, compliance operations analysts, and public health informatics scientists.
 
 Exploratory data analysis is important for understanding the following healthcare considerations:
-
-Predicting and diagnosing illnesses
-
-Improving patient safety
-
-Reducing time to diagnosis
-
-Increasing our understanding of disease risks and causes
-
-Developing stronger prevention strategies
+- Predicting and diagnosing illnesses
+- Improving patient safety
+- Reducing time to diagnosis
+- Increasing our understanding of disease risks and causes
+- Developing stronger prevention strategies
 
 ## Project Example
 
