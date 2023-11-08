@@ -13,7 +13,7 @@ Exploratory data analysis is important for understanding the following healthcar
 
 ## Project Example
 
-Personal Fitness Analyst: Research whether working out helps a person become more active overall. Use data collected by the [Samsung Health application](https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends). to uncover relevant trends. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
+Personal Fitness Analyst: Research whether working out helps a person become more active overall. Use data collected by the [Samsung Health application](https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends) to uncover relevant trends. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
 
 ## Requirements
 ### Completed Analysis Uploaded to GitHub (20 points)
