@@ -1,6 +1,30 @@
 # umn_data_project_001
 UMN Data Bootcamp Project 1
 
+### Current Leading Questions
+How does sleep relate individually to level of fitness during the day? 
+How does sleep relate to general mood/stress levels throughout the day? 
+Does gender affect the variables in any particular way? Does age? 
+Which variable (sleep, mood, fitness) has the strongest pull on the other variables?
+
+### Questions to Ask Throughout Project
+What relationship are we investigating? How is the best way to visualize that relationship?
+What are important statistics for this?
+How to consistently measure mood? Is it worthwhile to this task?
+What does this mean for our particular slice of Question Pie, and what does it mean for the larger, whole Question Pie?
+
+### Questions for Our Conclusions
+Was there a way to consistently measure mood? Is that mostly subjective?
+What are potential factors that we did not include in our analysis that may have some sway over this data? (Sleep disorders, hydration, general nutritional value of food/number of meals they’re eating/mental illness/living situations/life in general) 
+Was our data pulling from some populations more than others? (gender, age, type of job)
+
+### Data Sources
+DS1: Sleep Health and Lifestyle (technically fake but we can play ignorant—Dallin said so) https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+DS2: US Census Lifestyle Mega Survey API https://www.census.gov/programs-surveys/acs/data/data-tables.html
+DS3: CDC Data (ish? sorta?) https://www.cdc.gov/nccdphp/dnpao/data-trends-maps/index.html
+Bootcamp Source https://bootcampspot.instructure.com/courses/4346/pages/7-project-1-overview?module_item_id=1091766
+
+
 ## Healthcare
 Exploratory data analysis is used by many individuals within the healthcare field, including clinical data analysts, pharmaceutical testers, healthcare-economics researchers, senior policy analysts, compliance operations analysts, and public health informatics scientists.
 
