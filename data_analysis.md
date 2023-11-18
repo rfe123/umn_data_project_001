@@ -11,6 +11,13 @@
 ### Sleep and Physical Activity
 
 ### Sleep and Stress Levels
+There's a negative correlation between sleep duration and stress level:
+• Having longer sleep durations might be associated with lower stress levels, indicating the potential importance of sufficient sleep in managing stress.
+• Similarly, shorter sleep durations might be associated with higher stress levels, suggesting that inadequate sleep could contribute to increased stress levels.
+
+Stress Level Frequencies :
+• Male are facing more stress levels compared to female's.
+• Female stress levels are very low based on the available data.
 
 ### Affect of Age
 Age vs. Sleep Quality:
