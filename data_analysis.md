@@ -9,8 +9,15 @@
   We hypothesized that the best way to search for any potential relationships was to analyze the relationship between sleep and fitness, sleep and stress, and stress and fitness and to see if any one relationship had a stronger correlation than others.
 
 ### Sleep and Physical Activity
-
+We examines the relationship between sleep and fitness level. Sleep duration is measured in hours and physical activity level is the minutes per day a person engages in physical activity. There are a few potential outliers within the data set that could be skewing results as shown in a box and whiskers plot created between the sleep duration and phydical activity level. A scatter plot shows a slightly positive correlation. These graphs show that for the extreme physical activity levels there are wide ranges of sleep duration. In general we noted higher physical activity level correlates with sleep duration.
 ### Sleep and Stress Levels
+There's a negative correlation between sleep duration and stress level:
+• Having longer sleep durations might be associated with lower stress levels, indicating the potential importance of sufficient sleep in managing stress.
+• Similarly, shorter sleep durations might be associated with higher stress levels, suggesting that inadequate sleep could contribute to increased stress levels.
+
+Stress Level Frequencies :
+• Male are facing more stress levels compared to female's.
+• Female stress levels are very low based on the available data.
 
 ### Affect of Age
 Age vs. Sleep Quality:
@@ -29,6 +36,11 @@ The negative T-statistic means that, on average, females have better sleep quali
 ### Affect of Blood Pressure
 
 ### Affect of Gender
+The p-values for various t tests were calcultaed in an attempt to identify if there is a significant difference between male and female data.  With p-values less than .05 we can see no statistical difference between them for sleep duration and quality of sleep. There are statistical differences in physical activity and daily steps. This shows that it is dependent on category if male vs female plays a role in the results. The P-values are as follows:
+ Male vs Female Physical Activity: P-value=0.9776
+Male vs Female Sleep Duration: P-value=0.0189
+Male vs Female Quality of Sleep: P-value=1.0781e-08
+Male vs Female Daily Steps: P-value=0.7801
 
 ### Affect of BMI
 
