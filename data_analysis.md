@@ -35,6 +35,12 @@ The negative T-statistic means that, on average, females have better sleep quali
 
 ### Affect of Blood Pressure
 
+Using Group By - data was aggregated first by gender, and then by blood pressure categories. The dataset includes participants with normal, elevated, and hypertension blood pressure measurements.
+
+First, we observe that there are no Female participants in the study with elevated Blood Pressure. When comparing Sleep Quality and Stress Levels (both qualitative assesments 1-10), we observe little difference for Blood Pressure groups. Surprisingly, we find there is little difference in the average Physical Activity levels reported by each group. Specifically for the male participants, the groups experience elevated and hypertension Blood Pressure levels average more daily physical activity than those in the normal range. Our team speculated whether this related to male's general tendency to be more reactive in their health care - increasing Activity Levels after experiencing Blood Pressure increases. 
+
+Finally, in this sample data set, Female participants on average get better Quality Sleep and have lower Stress Levels - again, with little observable impact from blood pressure. We do not find Blood Pressure to be a good predictor for the other data tracked in this dataset.
+
 ### Affect of Gender
 The p-values for various t tests were calcultaed in an attempt to identify if there is a significant difference between male and female data.  With p-values less than .05 we can see no statistical difference between them for sleep duration and quality of sleep. There are statistical differences in physical activity and daily steps. This shows that it is dependent on category if male vs female plays a role in the results. The P-values are as follows:
  Male vs Female Physical Activity: P-value=0.9776
