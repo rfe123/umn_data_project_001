@@ -45,3 +45,12 @@ Male vs Female Daily Steps: P-value=0.7801
 ### Affect of BMI
 
 ## Conclusion
+In conclusion, we came to the following conclusions regarding our initial questions.
+(1) How does sleep relate individually to level of fitness during the day?
+There was a slight positive correlation between amount of sleep and physical activity during the day.
+(2) How does sleep relate to general stress levels?
+Overarchingly, study participants who experienced 8 or more hours of sleep had the lowest (3 and 4) recorded stress levels. There is a strong line of regression showing the relationship between decent sleep and lower stress levels. We do note, however, that the majority of the study participants had elevated or hypertensive blood pressure, and that may affect their physical activity and their reported stress level.
+(3) Does gender and age affect the variables in a statistically significant way?
+We found that as age increased, so did a positive relationship with sleep and phsyical activty. While we do not have data on it, this may be caused by generally being more financially stable as one ages and solidifies their career, as well as having less stress as one moves out of the child-rearing age.
+Additionally, male participants showed that more phsyical activity led to lower stress levels, whereas female participants displayed the opposite relationship, where phsyical activity increasing also increased their stress levels. Both of those relationships may have influenced the individual's sleep.
+We also acknowledge that the statistical randomness of our data set may be called into question, as the occupations of all the study participants fall into many of the same fields, as well as the amount of study participants with normal blood pressure is shockingly low. Many of the participants of the study, 41.5%, had a diagnosed sleep disorder which also could affect the specific sleep relationships we were investigating.
