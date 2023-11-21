@@ -9,7 +9,10 @@
   We hypothesized that the best way to search for any potential relationships was to analyze the relationship between sleep and fitness, sleep and stress, and stress and fitness and to see if any one relationship had a stronger correlation than others.
 
 ### Sleep and Physical Activity
-We examines the relationship between sleep and fitness level. Sleep duration is measured in hours and physical activity level is the minutes per day a person engages in physical activity. There are a few potential outliers within the data set that could be skewing results as shown in a box and whiskers plot created between the sleep duration and phydical activity level. A scatter plot shows a slightly positive correlation. These graphs show that for the extreme physical activity levels there are wide ranges of sleep duration. In general we noted higher physical activity level correlates with sleep duration.
+We examined the relationship between sleep and fitness level. Sleep duration is measured in hours and physical activity level is the minutes per day a person engages in physical activity. There are a few potential outliers within the data set that could be skewing results as shown in a box and whiskers plot created between the sleep duration and phydical activity level.
+
+A scatter plot shows a slightly positive correlation. These graphs show that for the extreme physical activity levels there are wide ranges of sleep duration. In general we noted higher physical activity level correlates with sleep duration.
+
 ### Sleep and Stress Levels
 There's a negative correlation between sleep duration and stress level:
 • Having longer sleep durations might be associated with lower stress levels, indicating the potential importance of sufficient sleep in managing stress.
