@@ -22,6 +22,19 @@ Stress Level Frequencies :
 • Male are facing more stress levels compared to female's.
 • Female stress levels are very low based on the available data.
 
+### Relationship between Fitness & Stress
+There is a weak correlation for how daily steps alone affects physical fitness level:
+- Male Data:R-squared: 0.17
+Explanation: The number means that the daily steps can explain about 17% of why stress levels vary among males, suggesting a weak relationship
+- Female Data:R-squared: 0.34
+Explanation: For females, the daily steps explain around 34% of the variance in stress levels. This relationship is more noticeable compared to the males, but still not a strong correlation.
+Overall Data:
+As for the linear regression for the entire dataset - 
+Close to 0: 0.03 (Overall Data for the entire dataset)
+Explanation: The R-squared value of 0.03 indicates that only about 3% of the variability in stress levels can be explained by daily steps for the overall dataset, suggesting a weak relationship.
+Therefore, for all linear regression outcomes, we shouldn’t rely on data solely on daily steps to predict or explain stress levels; other factors are likely influencing stress levels.
+
+
 ### Affect of Age
 Age vs. Sleep Quality:
 • For male sleep quality, the R-squared value is 0.0771, suggesting that approximately 7.71% of the variability in male sleep quality can be explained by age.
