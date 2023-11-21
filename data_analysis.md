@@ -65,6 +65,7 @@ Male vs Female Quality of Sleep: P-value=1.0781e-08
 Male vs Female Daily Steps: P-value=0.7801
 
 ### Affect of BMI
+BMI by physical activity and gender gave answers that showed that the gender of the person was significant. First the data was cleaned again as our information used multiple names for the same information. Both "Normal & "Normal Weight" as well as "Obese" & "Overweight". The result of the consolidation of the data clearly showed results: "Normal" showed a significantly higher acivity level for males, whereas "Overweight" females showed a significantly higher activity level.
 
 ## Conclusion
 In conclusion, we came to the following conclusions regarding our initial questions.
