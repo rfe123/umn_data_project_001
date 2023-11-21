@@ -2,7 +2,7 @@
 UMN Data Bootcamp Project 1
 
 ## Presentation Slides
-https://docs.google.com/presentation/d/1L6tG3QsMy0w0D8XbV_kMFuZ7_FnB0ErycVBCdyDRjUo/edit#slide=id.g261eacf696e_2_0 
+https://docs.google.com/presentation/d/1L6tG3QsMy0w0D8XbV_kMFuZ7_FnB0ErycVBCdyDRjUo/edit?usp=sharing
 
 ### Current Leading Questions
 How does sleep relate individually to level of fitness during the day? 
